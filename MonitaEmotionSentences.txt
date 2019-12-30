@@ -1,0 +1,14 @@
+1	Her coat is on the chair.
+2	The road goes up the hill.
+3	They're going out tonight.
+4	He wore his yellow shirt.
+5	They took some food outside.
+6	The truck drove up the road.
+7	The tall man tied his shoes.
+8	The mailman shut the gate.
+9	The lady wore a coat.
+10	The chicken laid some eggs.
+11	A fish swam in the pond.
+12	Snow falls in the winter.
+13	The broom is in the corner.
+14	The shirts are in the closet.
